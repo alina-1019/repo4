@@ -1,0 +1,16 @@
+{
+   "name":"Activity 6",
+    "priority": 6,
+   "shortDescription": "6",
+   "icon":"customActivityManual.svg",
+   "descriptionMarkdown":"Activity1.md",
+   "topology": [{
+      "name": "Abs Topo",
+      "actionTitle":"Reserve",
+      "description": "",
+      "reservationDuration":"60",
+      "automation": [],
+      "interaction":[]
+    }]
+}
+© 2021 GitHub, Inc.
