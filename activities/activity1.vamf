@@ -1,13 +1,13 @@
 {
    "name":"Activity 1",
     "priority": 101,
-   "shortDescription": "repo2: 101",
+   "shortDescription": "101",
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
    "topology": [{
-      "name": "Topology 1",
+      "name": "Abs Topo",
       "actionTitle":"Reserve",
-      "description": "Immediate reservation of two VMs Velocity VM and VDS VM",
+      "description": "",
       "reservationDuration":"60",
       "automation": [],
       "interaction":[]
