@@ -1,0 +1,15 @@
+{
+   "name":"Activity 16",
+    "priority": 10,
+   "shortDescription": "10",
+   "icon":"customActivityManual.svg",
+   "descriptionMarkdown":"Activity1.md",
+   "topology": [{
+      "name": "Abs Topo",
+      "actionTitle":"Reserve",
+      "description": "",
+      "reservationDuration":"60",
+      "automation": [],
+      "interaction":[]
+    }]
+}
