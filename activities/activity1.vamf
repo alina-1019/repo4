@@ -1,7 +1,6 @@
 {
-   "name":"Activity 5",
-   "priority": 5,
-   "shortDescription": "priority = 5",
+   "name":"Activity 1 - REPO2",
+   "shortDescription": "priority = NA",
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
    "topology": [
