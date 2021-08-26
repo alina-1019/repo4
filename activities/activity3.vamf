@@ -1,0 +1,25 @@
+{
+   "name":"Activity 3 - REPO2",
+   "shortDescription": "priority = NA",
+   "icon":"customActivityManual.svg",
+   "descriptionMarkdown":"Activity1.md",
+   "topology": [
+{
+      "name": "Abstract Topology",
+      "actionTitle":"Reserve",
+      "description": "Create an immediate reservation on the topology",
+      "reservationDuration":""
+    },
+    {
+      "name": "Logical Topology",
+      "actionTitle":"Reserve",
+      "description": "Create an immediate reservation on the topology",
+      "reservationDuration":""
+    },
+    {
+      "name": "Abstract Topology that cannot be resolved",
+      "actionTitle":"Reserve",
+      "description": "Create an immediate reservation on the topology",
+      "reservationDuration":""
+    }]
+}
